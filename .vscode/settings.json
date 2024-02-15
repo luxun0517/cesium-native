@@ -115,7 +115,11 @@
       "texture.h": "c",
       "gl_format.h": "c",
       "complex": "cpp",
-      "expected": "cpp"
+      "expected": "cpp",
+      "*.rh": "cpp",
+      "byte": "cpp",
+      "fft": "cpp",
+      "nonlinearoptimization": "cpp"
     },
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "cmake.configureOnOpen": true
